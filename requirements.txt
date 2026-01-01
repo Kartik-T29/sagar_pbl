@@ -1,0 +1,6 @@
+pandas
+Flask
+kagglehub
+Flask-Cors
+scikit-learn
+numpy
